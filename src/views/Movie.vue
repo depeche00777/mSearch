@@ -7,7 +7,6 @@
         class="form-control shadow m-auto"
         v-model.trim.lazy = "search_query"
       >
-      {{  search_query }}
     </form>
   </div>
 
